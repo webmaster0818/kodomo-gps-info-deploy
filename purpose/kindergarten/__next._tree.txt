@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/05s48owt06zku.css","style"]
+:HL["/_next/static/chunks/0i0p5odv8bn~6.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"purpose","param":null,"prefetchHints":0,"slots":{"children":{"name":"kindergarten","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"vI0ccpH9BKGgsF0E101m1"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"purpose","param":null,"prefetchHints":0,"slots":{"children":{"name":"kindergarten","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"njGb6bvdjc9s-1w2c8rnY"}
