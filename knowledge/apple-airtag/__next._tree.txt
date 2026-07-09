@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0.6xrqjx~emfa.css","style"]
+:HL["/_next/static/chunks/00kj8ku91xpt..css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"knowledge","param":null,"prefetchHints":0,"slots":{"children":{"name":"apple-airtag","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uWlQSkmLVolyjv8BZyynh"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"knowledge","param":null,"prefetchHints":0,"slots":{"children":{"name":"apple-airtag","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"2mOmh44UUzu9e8PmqUaIl"}
